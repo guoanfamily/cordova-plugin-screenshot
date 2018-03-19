@@ -1,5 +1,6 @@
 # cordova-plugin-screenshot
 cordova截屏监听事件for ios and android
+
 cordova detect ios or android screen shot event and return the screenshot file fullpath
 ## Supported platforms
 
