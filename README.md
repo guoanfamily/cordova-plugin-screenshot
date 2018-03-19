@@ -11,7 +11,7 @@ cordova截屏监听事件for ios and android
 This requires cordova 5.0+ (current stable 1.5.3)
 
 ```sh
-cordova plugin add cordova-plugin-screenshot
+cordova plugin add cordova-plugin-screenshotv2
 ```
 
 ### Quick start guide
