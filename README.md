@@ -1,6 +1,6 @@
 # cordova-plugin-screenshot
 cordova截屏监听事件for ios and android
-
+cordova detect ios or android screen shot event and return the screenshot file fullpath
 ## Supported platforms
 
 - Android 4.0.0 or above.
@@ -8,7 +8,7 @@ cordova截屏监听事件for ios and android
 
 ### Installation
 
-This requires cordova 5.0+ (current stable 1.5.3)
+This requires cordova 7.0+
 
 ```sh
 cordova plugin add cordova-plugin-screenshotv2
