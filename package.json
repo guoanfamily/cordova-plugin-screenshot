@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-screenshot",
+  "version": "1.2.0",
+  "description": "detect screenshot event",
+  "cordova": {
+    "id": "cordova-plugin-screenshot",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loyabe/cordova-plugin-screenshot.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loyabe/cordova-plugin-screenshot/issues"
+  },
+  "homepage": "https://github.com/loyabe/cordova-plugin-screenshot#readme"
+}
