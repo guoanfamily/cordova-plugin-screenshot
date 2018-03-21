@@ -23,10 +23,10 @@ function receiveScreenShotCallback(data){
     alert(data); //data return the file full path
     
    };
-
+`
 ```
 
-###update
+### Update
 
 edit gradle config refrence
 update git url
