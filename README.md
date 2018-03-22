@@ -29,4 +29,5 @@ function receiveScreenShotCallback(data){
 ### Update
 
 edit gradle config refrence
+
 update git url

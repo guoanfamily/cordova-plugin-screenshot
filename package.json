@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-screenshotv2",
-  "version": "1.2.3",
-  "description": "detect screenshot event",
+  "version": "1.2.4",
+  "description": "detect screenshot event,return the img file full path",
   "cordova": {
     "id": "cordova-plugin-screenshotv2",
     "platforms": [
@@ -14,6 +14,8 @@
     "url": "git+https://github.com/guoanfamily/cordova-plugin-screenshot.git"
   },
   "keywords": [
+    "screenshot",
+    "detect image",
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
