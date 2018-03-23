@@ -31,3 +31,5 @@ function receiveScreenShotCallback(data){
 edit gradle config refrence
 
 update git url
+
+comatible meizu/360os
