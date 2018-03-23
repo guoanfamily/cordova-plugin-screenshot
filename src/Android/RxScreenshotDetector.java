@@ -87,7 +87,7 @@ public final class RxScreenshotDetector {
                     public void onChange(boolean selfChange, Uri uri) {
                         Log.d(TAG, "onChange: " + selfChange + ", " + uri.toString());
 
-                        if (uri.toString().matches(EXTERNAL_CONTENT_URI_MATCHER)) {
+                        if (uri.toString().contains(EXTERNAL_CONTENT_URI_MATCHER)) {
                             Cursor cursor = null;
                             try {
 
