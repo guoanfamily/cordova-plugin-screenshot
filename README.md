@@ -33,3 +33,5 @@ edit gradle config refrence
 update git url
 
 comatible meizu/360os
+
+remove impact image on ios

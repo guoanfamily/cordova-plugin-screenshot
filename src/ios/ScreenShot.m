@@ -81,8 +81,8 @@
 {
     NSData *imageData = [self dataWithScreenshotInPNGFormat];
     UIImage *rawImage = [UIImage imageWithData:imageData];
-    
-    return [self imageWithImage:rawImage scaledToSize:CGSizeMake(720, 1280)];
+    return rawImage;
+    //return [self imageWithImage:rawImage scaledToSize:CGSizeMake(720, 1280)];
 }
 
 //对图片尺寸进行压缩--
